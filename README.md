@@ -16,7 +16,6 @@ The following diagram shows all the modules and how each module interact with on
   - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Stores UI-related data that isn't destroyed on UI changes. 
   - [Room](https://developer.android.com/topic/libraries/architecture/room) - Access your app's SQLite database with in-app objects and compile-time checks.
   - [Navigation](https://developer.android.com/guide/navigation) - 
-* [dagger-hilt](https://dagger.dev/hilt/) - Dependency Injection Framework (Kotlin).
 * [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
 * [Fragment](https://developer.android.com/guide/components/fragments)
 * [Glide](https://bumptech.github.io/glide/) for image loading
