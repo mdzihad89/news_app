@@ -25,7 +25,7 @@ The following diagram shows all the modules and how each module interact with on
 * [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
 * [Fragment](https://developer.android.com/guide/components/fragments)
 * [Glide](https://bumptech.github.io/glide/) for image loading
-* [pretty time ](https://www.ocpsoft.org/prettytime/) - format time 
+* [Shimmer Effect]
 
 
 
