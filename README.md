@@ -25,8 +25,11 @@ The following diagram shows all the modules and how each module interact with on
 * [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
 * [Fragment](https://developer.android.com/guide/components/fragments)
 * [Glide](https://bumptech.github.io/glide/) for image loading
-* [Shimmer Effect]
+* Shimmer Effect
+* Swipe to Delete
 
 
 
 # screens of the app
+
+![Desktop - 1](https://user-images.githubusercontent.com/83513508/151874546-d35a3e15-5001-49c7-85c5-dfad9335b356.png)
